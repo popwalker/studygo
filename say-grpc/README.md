@@ -2,7 +2,7 @@
 
 ### Description
 This little project was come from a youtube video series named:[justforfunc](https://youtube.com/c/justforfunc) when i learning go programming.
-Thought it's useful for learn gRPC, so I write the code for recording my learning journey
+Thought it would be useful for learning gRPC, so I written the code for recording my learning journey
 Thanks [francesc](https://twitter.com/francesc)'s sharing
 
 ### Run
